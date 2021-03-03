@@ -1,6 +1,7 @@
-# than
-*A Dark Theme for LibreSprite based in than theme Made by @tungkradle for Asesprite*
+# Wild Night Orange 
+*A Theme for LibreSprite based in Wild Night Orange theme Made by WildLeoKnight for Asesprite*
 
+https://wildleoknight.itch.io/aseprite-wild-night-theme?download
 
 ## Installation
 ### 1. Download the zip file or clone the repositori
@@ -25,4 +26,4 @@ Go to *Edit/Preferences/Theme*, you can see there are 2 paths at the top of the 
 Choose 1 of them then click *Open Folder*. Copy the file you've just downloaded here and extract it.
 
 ### 3. Activate the theme
-Open the *Preferences/Theme* dialog again, choose **than_dark_theme_libresprite** from the list, click *Select* then click *OK*. Restart Aseprite to make the change happen.
+Open the *Preferences/Theme* dialog again, choose **than_dark_theme_libresprite** from the list, click *Select* then click *OK*. Restart Libresprite to make the change happen.
